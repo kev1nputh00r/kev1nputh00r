@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kev1nputh00r
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning c, c++ and python
+- 🌱 I’m currently learning c, c++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
