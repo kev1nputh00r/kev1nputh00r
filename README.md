@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kev1nputh00r
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning c, c++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c, python and Java
 
 <!---
 kev1nputh00r/kev1nputh00r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
